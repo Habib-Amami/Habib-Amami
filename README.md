@@ -1,19 +1,35 @@
-<h1 align="center">Hi 👋, I'm Mohamed Habib Amami</h1>
-<h3 align="center">a Computer Science Student</h3>
+# Hi, I'm Mohamed Habib Amami
 
-- 🔭 I’m currently working on **My final year project**
+**DevOps & Cloud Engineering student** at FST (University of Tunis El Manar) · **AWS Certified Cloud Practitioner**
 
-- 🌱 I’m currently learning **flutter**
+Looking for a **DevOps / Cloud PFE internship** starting **February 2027** · Tunis, Tunisia
 
-- 💬 Ask me about **java,python,dart,fluttter**
+## Featured Work
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/amami mohamed habib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amami mohamed habib" height="30" width="40" /></a>
-<a href="https://kaggle.com/habib amami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="habib amami" height="30" width="40" /></a>
-<a href="https://fb.com/habib amami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="habib amami" height="30" width="40" /></a>
-</p>
+| Project                                                                           | What it is                                                                                                                                                  | Stack                                                                       |
+| --------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| [EventFlow](https://github.com/Habib-Amami/EventFlow)                             | Serverless event-ingestion pipeline with DLQ & partial batch failures, fully provisioned with Terraform, CI-validated, and integration-tested on LocalStack | AWS Lambda · API Gateway · SQS · DynamoDB · S3 · Terraform · GitHub Actions |
+| [ChatOps Assistant](https://github.com/Habib-Amami/chatops)                       | Natural-language Kubernetes & AWS operations with human-approved, audited actions — built during my DevOps internship at Talan                              | LangGraph · FastAPI · Kubernetes · Next.js · GitHub Actions                 |
+| [AWS 3-Tier Architecture](https://github.com/Habib-Amami/aws-3-tier-architecture) | Multi-AZ, highly-available web architecture with RDS failover and CloudWatch monitoring                                                                     | VPC · ALB · EC2 Auto Scaling · RDS · CloudWatch                             |
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+## Tech Stack
 
+**Cloud:** AWS (Lambda, API Gateway, SQS, DynamoDB, S3, EC2, VPC, RDS, IAM, CloudWatch)
+
+**IaC & CI/CD:** Terraform · GitHub Actions
+
+**Containers:** Docker · Kubernetes · Minikube · LocalStack
+
+**Backend:** Python · FastAPI · LangGraph · Pydantic · REST APIs
+
+**Also:** SQL · TypeScript · Flutter · Dart · Linux · Git
+
+## Experience
+
+* **DevOps/Cloud Engineering Intern** @ Talan Tunisia — **Jun–Aug 2026**
+* **Software Engineer (part-time)** @ Vistasy — **Sep 2024 – May 2026**
+* **Mobile Developer Intern** @ Softic — **Feb–Jun 2024**
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/amami-mohamed-habib) · [Email](mailto:habibamami050@gmail.com) · [AWS Certification](YOUR_CREDLY_BADGE_URL)
