@@ -10,7 +10,6 @@ Looking for a **DevOps / Cloud PFE internship** starting **February 2027** · Tu
 | --------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
 | [EventFlow](https://github.com/Habib-Amami/EventFlow)                             | Serverless event-ingestion pipeline with DLQ & partial batch failures, fully provisioned with Terraform, CI-validated, and integration-tested on LocalStack | AWS Lambda · API Gateway · SQS · DynamoDB · S3 · Terraform · GitHub Actions |
 | [ChatOps Assistant](https://github.com/Habib-Amami/chatops)                       | Natural-language Kubernetes & AWS operations with human-approved, audited actions — built during my DevOps internship at Talan                              | LangGraph · FastAPI · Kubernetes · Next.js · GitHub Actions                 |
-| [AWS 3-Tier Architecture](https://github.com/Habib-Amami/aws-3-tier-architecture) | Multi-AZ, highly-available web architecture with RDS failover and CloudWatch monitoring                                                                     | VPC · ALB · EC2 Auto Scaling · RDS · CloudWatch                             |
 
 ## Tech Stack
 
